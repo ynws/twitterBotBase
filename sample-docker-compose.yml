@@ -1,0 +1,9 @@
+version: '2'
+services:
+  app:
+    build: .
+    environment:
+      consumer_key:        XXXXXXXXXXXXXXXXXXXXXX
+      consumer_secret:     XXXXXXXXXXXXXXXXXXXXXX
+      access_token:        XXXXXXXXXXXXXXXXXXXXXX
+      access_token_secret: XXXXXXXXXXXXXXXXXXXXXX

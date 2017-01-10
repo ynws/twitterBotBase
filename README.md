@@ -1,4 +1,11 @@
 # ruby twitter streaming bot
 
-## 概要
-twitter streaming APIを用いてデータを集めるひな形
+## Overview
+A template that gathers data using the twitter streaming API
+
+## Run
+This bot need a twitter access token.
+Please see sample-docker-compose.yml.
+
+Rewrite the key, and `docker-compose up`
+
